@@ -22,6 +22,7 @@
 # adowu add 
 *.csv
 output/
+data/
 .DS_Store
 .idea
 .vscode
