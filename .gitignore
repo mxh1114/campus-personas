@@ -20,7 +20,6 @@
 *.rar
 
 # adowu add 
-*.csv
 output/
 data/
 .DS_Store
