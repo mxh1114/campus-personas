@@ -14,7 +14,7 @@
 1. 目录结构
 
    <center>
-   <img src="/imgs/structure.png" title="目录结构" width="300" height="500">
+   <img src="./imgs/structure.png" title="目录结构" width="300" height="500">
 
    其中 data目录和 output目录下的内容是不会被上传的，不必担心会上传过大的文件，
 
